@@ -1,136 +1,136 @@
-<div>opencv 4.0
-1,calib3d 
-  a,calib3d
-  b,StereoBM
-  c,StereoMatcher
-  d,StereoSGBM
+<div>opencv 4.0<br>
+1,calib3d<br> 
+  a,calib3d<br>
+  b,StereoBM<br>
+  c,StereoMatcher<br>
+  d,StereoSGBM<br>
 
-2,core
-  a,Algorithm
-  b,Core
-  c,CvException
-  d,CvType
-  e,DMatch
-  f,KeyPoint
-  g,Mat
-  h,MatOfByte
-  i,MatOfDMatch
-  j,MatOfDouble
-  k,MatOfFloat
-  l,MatOfFloat4
-  m,MatOfFloat6
-  n,MatOfInt
-  o,MatOfInt4
-  p,MatOfKeyPoint
-  q,MatOfPoint
-  r,MatOfPoint2f
-  s,MatOfPoint3f
-  t,MatOfRect
-  u,MatOfRect2d
-  v,MatOfRotatedRect
-  w,Point
-  x,Point3
-  y,Range
-  z,Rect
-  aa,Rect2d
-  ab,RotatedRect
-  ac,Scalar
-  ad,Size
-  ae,TermCriteria
-  af,TickMeter
+2,core<br>
+  a,Algorithm<br>
+  b,Core<br>
+  c,CvException<br>
+  d,CvType<br>
+  e,DMatch<br>
+  f,KeyPoint<br>
+  g,Mat<br>
+  h,MatOfByte<br>
+  i,MatOfDMatch<br>
+  j,MatOfDouble<br>
+  k,MatOfFloat<br>
+  l,MatOfFloat4<br>
+  m,MatOfFloat6<br>
+  n,MatOfInt<br>
+  o,MatOfInt4<br>
+  p,MatOfKeyPoint<br>
+  q,MatOfPoint<br>
+  r,MatOfPoint2f<br>
+  s,MatOfPoint3f<br>
+  t,MatOfRect<br>
+  u,MatOfRect2d<br>
+  v,MatOfRotatedRect<br>
+  w,Point<br>
+  x,Point3<br>
+  y,Range<br>
+  z,Rect<br>
+  aa,Rect2d<br>
+  ab,RotatedRect<br>
+  ac,Scalar<br>
+  ad,Size<br>
+  ae,TermCriteria<br>
+  af,TickMeter<br>
  
-3,dnn
-   a,DictValue
-   b,Dnn
-   c,Layer
-   d,Net
-4,features2d
-   a,AgastFeatureDetector
-   b,AKAZE
-   c,BFMatcher
-   d,BOWImgDescriptorExtractor
-   e,BOWKMeansTrainer
-   f,BRISK
-   g,DescriptorMatcher
-   h,FastFeatureDetector
-   i,Feature2D
-   j,Features2d
-   k,FlannBasedMatcher
-   l,GFTTDetector
-   m,KAZE
-   n,MSER
-   o,ORB
-   p,Params
-5,highgui
-   a,HighGui
-   b,ImageWindow
-6,imgproc
-   a,Imgcodecs
-7,imgproc
-   a,CLAHE
-   b,GeneralizedHough
-   c,GeneralizedHoughBallard
-   d,GeneralizedHoughGuil
-   e,Imgproc
-   f,LineSegmentDetector
-   g,Moments
-   h,Subdiv2D
-8,ml
-   a,ANN_MLP
-   b,Boost
-   c,DTrees
-   d,EM
-   e,KNearest
-   f,LogisticRegression
-   g,MI
-   h,NormalBayesClassifier
-   i,ParamGrid
-   j,RTrees
-   k,StatModel
-   l,SVM
-   m,SVMSGD
-   n,TrainData
-9,objdetect
-   a,BaseCascadeClassifier
-   b,CascadeClassifier
-   c,HOGGDescriptor
-   d,Objdetect
-   e,QRCodeDetector
-10,osgi
-   a,OpenCVInterface
-   b,OpenCVNativeLoader
-11,photo
-   a,AlignExposures
-   b,AlignMTB
-   c,CalibrateCRF
-   d,CalibrateDebevec
-   e,CalibrateRobertson
-   f,MergeDebevec
-   g,MergeExposures
-   h,MergeMertens
-   i,MergeRobertson
-   j,Photo
-   k,Tonemap
-   l,TonemapDrago
-   m,TonemapDurand
-   n,TonemapMantiuk
-   k,TonemapReinhard
-12,utils
-   a,Converters
-13,video
-   a,BackgroundSubtractor
-   b,BackgroundSubtractorKNN
-   c,BackgroundSubtractorMOG2
-   d,DenseOpticalFlow
-   e,DISOpticalFlow
-   f,FarnebackOpticalFlow
-   g,KalmanFilter
-   h,SparseOpticalFlow
-   i,SparsePyrLKOpticalFlow
-   j,VariationalRefinement
-   k,Video
-14,videoio
-   a,VideoCapture
-   b,Videoio
-   c,VideoWriter   
+3,dnn<br>
+   a,DictValue<br>
+   b,Dnn<br>
+   c,Layer<br>
+   d,Net<br>
+4,features2d<br>
+   a,AgastFeatureDetector<br>
+   b,AKAZE<br>
+   c,BFMatcher<br>
+   d,BOWImgDescriptorExtractor<br>
+   e,BOWKMeansTrainer<br>
+   f,BRISK<br>
+   g,DescriptorMatcher<br>
+   h,FastFeatureDetector<br>
+   i,Feature2D<br>
+   j,Features2d<br>
+   k,FlannBasedMatcher<br>
+   l,GFTTDetector<br>
+   m,KAZE<br>
+   n,MSER<br>
+   o,ORB<br>
+   p,Params<br>
+5,highgui<br>
+   a,HighGui<br>
+   b,ImageWindow<br>
+6,imgproc<br>
+   a,Imgcodecs<br>
+7,imgproc<br>
+   a,CLAHE<br>
+   b,GeneralizedHough<br>
+   c,GeneralizedHoughBallard<br>
+   d,GeneralizedHoughGuil<br>
+   e,Imgproc<br>
+   f,LineSegmentDetector<br>
+   g,Moments<br>
+   h,Subdiv2D<br>
+8,ml<br>
+   a,ANN_MLP<br>
+   b,Boost<br>
+   c,DTrees<br>
+   d,EM<br>
+   e,KNearest<br>
+   f,LogisticRegression<br>
+   g,MI<br>
+   h,NormalBayesClassifier<br>
+   i,ParamGrid<br>
+   j,RTrees<br>
+   k,StatModel<br>
+   l,SVM<br>
+   m,SVMSGD<br>
+   n,TrainData<br>
+9,objdetect<br>
+   a,BaseCascadeClassifier<br>
+   b,CascadeClassifier<br>
+   c,HOGGDescriptor<br>
+   d,Objdetect<br>
+   e,QRCodeDetector<br>
+10,osgi<br>
+   a,OpenCVInterface<br>
+   b,OpenCVNativeLoader<br>
+11,photo<br>
+   a,AlignExposures<br>
+   b,AlignMTB<br>
+   c,CalibrateCRF<br>
+   d,CalibrateDebevec<br>
+   e,CalibrateRobertson<br>
+   f,MergeDebevec<br>
+   g,MergeExposures<br>
+   h,MergeMertens<br>
+   i,MergeRobertson<br>
+   j,Photo<br>
+   k,Tonemap<br>
+   l,TonemapDrago<br>
+   m,TonemapDurand<br>
+   n,TonemapMantiuk<br>
+   k,TonemapReinhard<br>
+12,utils<br>
+   a,Converters<br>
+13,video<br>
+   a,BackgroundSubtractor<br>
+   b,BackgroundSubtractorKNN<br>
+   c,BackgroundSubtractorMOG2<br>
+   d,DenseOpticalFlow<br>
+   e,DISOpticalFlow<br>
+   f,FarnebackOpticalFlow<br>
+   g,KalmanFilter<br>
+   h,SparseOpticalFlow<br>
+   i,SparsePyrLKOpticalFlow<br>
+   j,VariationalRefinement<br>
+   k,Video<br>
+14,videoio<br>
+   a,VideoCapture<br>
+   b,Videoio<br>
+   c,VideoWriter<br>   
    </div>

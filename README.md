@@ -146,7 +146,7 @@ norm(Mat,int,Mat)<br>
 norm(Mat,Mat)<br>
 norm(Mat,Mat,int)<br>
 norm(Mat,Mat,int,Mat)<br>
-normalize(Mat,Mat)<br><br>
+normalize(Mat,Mat)<br>
 normalize(Mat,Mat,double)<br>
 normalize(Mat,Mat,double,double)<br>
 normalize(Mat,Mat,double,double,int)<br>
@@ -214,7 +214,7 @@ Core()<br>
 
 
      
-     </ol>
+    
   c,CvException<br>
   d,CvType<br>
   e,DMatch<br>

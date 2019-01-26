@@ -210,7 +210,7 @@ transform(Mat,Mat,Mat)<br>
 useIPP()<br>
 useIPP_NotExact()<br>
 vconcat(List<Mat>,Mat)<br>
-Core()<br>
+Core()</ol><br>
 
 
      

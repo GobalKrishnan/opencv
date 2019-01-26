@@ -6,7 +6,7 @@
   d,StereoSGBM<br>
 </ol>
 2,core<br>
-  a,Algorithm<br>
+<ol> a,Algorithm<br>
   b,Core<br>
   c,CvException<br>
   d,CvType<br>
@@ -38,14 +38,14 @@
   ad,Size<br>
   ae,TermCriteria<br>
   af,TickMeter<br>
- 
+</ol> 
 3,dnn<br>
-   a,DictValue<br>
+<ol>a,DictValue<br>
    b,Dnn<br>
    c,Layer<br>
-   d,Net<br>
+   d,Net<br></ol>
 4,features2d<br>
-   a,AgastFeatureDetector<br>
+ <ol>a,AgastFeatureDetector<br>
    b,AKAZE<br>
    c,BFMatcher<br>
    d,BOWImgDescriptorExtractor<br>
@@ -60,23 +60,23 @@
    m,KAZE<br>
    n,MSER<br>
    o,ORB<br>
-   p,Params<br>
+   p,Params<br></ol>
 5,highgui<br>
-   a,HighGui<br>
-   b,ImageWindow<br>
+ <ol>a,HighGui<br>
+   b,ImageWindow<br></ol>
 6,imgproc<br>
-   a,Imgcodecs<br>
+<ol>   a,Imgcodecs<br></ol>
 7,imgproc<br>
-   a,CLAHE<br>
+<ol> a,CLAHE<br>
    b,GeneralizedHough<br>
    c,GeneralizedHoughBallard<br>
    d,GeneralizedHoughGuil<br>
    e,Imgproc<br>
    f,LineSegmentDetector<br>
    g,Moments<br>
-   h,Subdiv2D<br>
+   h,Subdiv2D<br></ol>
 8,ml<br>
-   a,ANN_MLP<br>
+<ol>a,ANN_MLP<br>
    b,Boost<br>
    c,DTrees<br>
    d,EM<br>
@@ -89,18 +89,18 @@
    k,StatModel<br>
    l,SVM<br>
    m,SVMSGD<br>
-   n,TrainData<br>
+   n,TrainData<br></ol>
 9,objdetect<br>
-   a,BaseCascadeClassifier<br>
+<ol>a,BaseCascadeClassifier<br>
    b,CascadeClassifier<br>
    c,HOGGDescriptor<br>
    d,Objdetect<br>
-   e,QRCodeDetector<br>
+   e,QRCodeDetector<br></ol>
 10,osgi<br>
-   a,OpenCVInterface<br>
-   b,OpenCVNativeLoader<br>
+<ol> a,OpenCVInterface<br>
+ b,OpenCVNativeLoader<br></ol>
 11,photo<br>
-   a,AlignExposures<br>
+ <ol>  a,AlignExposures<br>
    b,AlignMTB<br>
    c,CalibrateCRF<br>
    d,CalibrateDebevec<br>
@@ -114,11 +114,11 @@
    l,TonemapDrago<br>
    m,TonemapDurand<br>
    n,TonemapMantiuk<br>
-   k,TonemapReinhard<br>
+   k,TonemapReinhard<br></ol>
 12,utils<br>
-   a,Converters<br>
+  <ol> a,Converters<br></ol>
 13,video<br>
-   a,BackgroundSubtractor<br>
+ <ol>  a,BackgroundSubtractor<br>
    b,BackgroundSubtractorKNN<br>
    c,BackgroundSubtractorMOG2<br>
    d,DenseOpticalFlow<br>
@@ -128,9 +128,9 @@
    h,SparseOpticalFlow<br>
    i,SparsePyrLKOpticalFlow<br>
    j,VariationalRefinement<br>
-   k,Video<br>
+   k,Video<br></ol>
 14,videoio<br>
-   a,VideoCapture<br>
+ <ol>  a,VideoCapture<br>
    b,Videoio<br>
-   c,VideoWriter<br>   
+   c,VideoWriter<br></ol>
    </div>
